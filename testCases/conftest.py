@@ -24,7 +24,7 @@ def browser(request):  # This will return the Browser value to setup method
     return request.config.getoption("--browser")
 
 
-################## Pytest HTML reports #######################
+################# Pytest HTML reports #######################
 
 # def pytest_configure(config):
 #     config._metadata['Project Name'] = 'nop Commerce'
@@ -36,3 +36,4 @@ def browser(request):  # This will return the Browser value to setup method
 # def pytest_metadata(metadata):
 #     metadata.pop("JAVA_HOME", None)
 #     metadata.pop("plugins", None)
+
