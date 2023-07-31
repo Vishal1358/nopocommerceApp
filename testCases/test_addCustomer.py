@@ -10,6 +10,7 @@ from utilities.customLogger import LogGen
 import string
 import random
 
+
 class Test_003_AddCustomer:
     baseURL = ReadConfig.getApplicationURL()
     username = ReadConfig.getUseremail()
@@ -18,9 +19,9 @@ class Test_003_AddCustomer:
 
     @pytest.mark.sanity
     @pytest.mark.regression
-    def test_addCustomer(self,setup):
+    def test_addCustomer(self, setup):
         self.logger.info("************* Test_003_AddCustomer **********")
-        self.driver=setup
+        self.driver = setup
         self.driver.get(self.baseURL)
         self.driver.maximize_window()
 
@@ -46,9 +47,9 @@ class Test_003_AddCustomer:
         self.addcust.setCustomerRoles("Guests")
         self.addcust.setManagerOfVendor("Vendor 2")
         self.addcust.setGender("Male")
-        self.addcust.setFirstName("Pavan")
+        self.addcust.setFirstName("Nandu")
         self.addcust.setLastName("Kumar")
-        self.addcust.setDob("7/05/1985")  # Format: D / MM / YYY
+        self.addcust.setDob("7/05/1999")  # Format: D / MM / YYY
         self.addcust.setCompanyName("busyQA")
         self.addcust.setAdminContent("This is for testing.........")
         self.addcust.clickOnSave()
@@ -57,7 +58,7 @@ class Test_003_AddCustomer:
 
         self.logger.info("********* Add customer validation started *****************")
 
-        self.msg = self.driver.find_element(By.TAG_NAME,"body").text
+        self.msg = self.driver.find_element(By.TAG_NAME, "body").text
 
         print(self.msg)
         if 'customer has been added successfully.' in self.msg:
