@@ -253,10 +253,10 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 }
 </script>
     <h1>report.html</h1>
-    <p>Report generated on 31-Jul-2023 at 14:06:14 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.2.0</p>
+    <p>Report generated on 01-Aug-2023 at 15:49:31 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.2.0</p>
     <h2>Summary</h2>
-    <p>6 tests ran in 130.10 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">6 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>7 tests ran in 149.39 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">7 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -270,13 +270,32 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">test_addCustomer.py::Test_003_AddCustomer::test_addCustomer</td>
-          <td class="col-duration">25.56</td>
+          <td class="col-name">test_CustomerEdit.py::Test_015_EditCustomer::test_editCustomer</td>
+          <td class="col-duration">28.00</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
             <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>Launching chrome browser.........
-<br/> ------------------------------Captured stdout call------------------------------ <br/>  John Smith
+<br/> ------------------------------Captured stdout call------------------------------ <br/>×
+The customer has been updated successfully.
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_CustomerEdit.py:24 *********** Test_015 ***********
+INFO     root:test_CustomerEdit.py:33 ********** Login Succesfull ***********
+INFO     root:test_CustomerEdit.py:35 ********** Starting Editing Customer ***********
+INFO     root:test_CustomerEdit.py:47 ******** Providing Customer Details *********
+INFO     root:test_CustomerEdit.py:55 ************* Saving customer info **********
+INFO     root:test_CustomerEdit.py:57 ********* Add customer validation started *****************
+INFO     root:test_CustomerEdit.py:65 ********* Edit Customer Test Passed **********
+INFO     root:test_CustomerEdit.py:73 *********** Ending Editing Customer Test *************<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">test_addCustomer.py::Test_003_AddCustomer::test_addCustomer</td>
+          <td class="col-duration">29.32</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>Launching chrome browser.........
+<br/> ------------------------------Captured stdout call------------------------------ <br/>John Smith
 Logout
 Dashboard
 Catalog
@@ -361,6 +380,14 @@ Registered
 Search
 Learn more about customers
 Email Name Customer roles Company name Active Edit
+kiyjcycyhjc676008@gmail.com Virat Kohli Registered Indian Cricket Team Edit
+victoria_victoria@nopCommerce.com Victoria Terces Registered Edit
+Nandu@gmail.com Nandu Kumar Registered Msys Edit
+james_pan@nopCommerce.com James Pan Registered Edit
+arthur_holmes@nopCommerce.com Arthur Holmes Registered Edit
+steve_gates@nopCommerce.com Steve Gates Registered Edit
+admin@yourStore.com John Smith Administrators, Forum Moderators, Registered Edit
+1
 Show
 7
 15
@@ -368,8 +395,9 @@ Show
 50
 100
 items
+1-7 of 7 items
 Powered by nopCommerce
-Monday, July 31, 2023 1:33 AM
+Tuesday, August 1, 2023 3:16 AM
 nopCommerce version 4.60.0
 <br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_addCustomer.py:23 ************* Test_003_AddCustomer **********
 INFO     root:test_addCustomer.py:32 ************* Login succesful **********
@@ -383,7 +411,7 @@ INFO     root:test_addCustomer.py:73 ******* Ending Add customer test **********
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">test_export_XML_Selected.py::Test_ExportCustomerXMLSelected_013::test_export</td>
-          <td class="col-duration">12.89</td>
+          <td class="col-duration">11.75</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
@@ -397,7 +425,7 @@ INFO     root:test_export_XML_Selected.py:44 ***************** Exporting Custome
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">test_export_XML_all.py::Test_ExportCustomerXMLAll_012::test_export</td>
-          <td class="col-duration">10.49</td>
+          <td class="col-duration">13.11</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
@@ -411,7 +439,7 @@ INFO     root:test_export_XML_all.py:43 ***************** Exporting Customer XML
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">test_export_excel_Selected.py::Test_ExportCustomerExcelSelected_011::test_export</td>
-          <td class="col-duration">35.29</td>
+          <td class="col-duration">33.82</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
@@ -425,7 +453,7 @@ INFO     root:test_export_excel_Selected.py:44 ***************** Exporting Custo
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">test_export_excel_all.py::Test_ExportCustomerExcelAll_010::test_export</td>
-          <td class="col-duration">11.85</td>
+          <td class="col-duration">11.86</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
@@ -439,7 +467,7 @@ INFO     root:test_export_excel_all.py:43 ***************** Exporting Customer E
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">test_login.py::Test_001_Login::test_login</td>
-          <td class="col-duration">33.52</td>
+          <td class="col-duration">21.12</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">

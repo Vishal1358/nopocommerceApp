@@ -380,3 +380,94 @@
 07/31/2023 02:05:41 PM: INFO: ***************** Exporting Customer Excel all ********************
 07/31/2023 02:05:44 PM: INFO: *********************** Verifying Login Test **********************************
 07/31/2023 02:06:14 PM: INFO: *********************** Login Test is Passed **********************************
+08/01/2023 12:36:51 PM: WARNING: Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5)
+08/01/2023 12:36:55 PM: INFO: *********** Test_015 ***********
+08/01/2023 12:38:21 PM: INFO: ********** Login Succesfull ***********
+08/01/2023 12:38:21 PM: INFO: ********** Starting Editing Customer ***********
+08/01/2023 12:55:07 PM: INFO: *********** Test_015 ***********
+08/01/2023 12:55:25 PM: INFO: ********** Login Succesfull ***********
+08/01/2023 12:55:25 PM: INFO: ********** Starting Editing Customer ***********
+08/01/2023 01:00:56 PM: INFO: *********** Test_015 ***********
+08/01/2023 01:01:09 PM: INFO: ********** Login Succesfull ***********
+08/01/2023 01:01:09 PM: INFO: ********** Starting Editing Customer ***********
+08/01/2023 01:03:57 PM: INFO: *********** Test_015 ***********
+08/01/2023 01:04:50 PM: INFO: ********** Login Succesfull ***********
+08/01/2023 01:04:50 PM: INFO: ********** Starting Editing Customer ***********
+08/01/2023 01:08:58 PM: INFO: *********** Test_015 ***********
+08/01/2023 01:09:22 PM: INFO: ********** Login Succesfull ***********
+08/01/2023 01:09:22 PM: INFO: ********** Starting Editing Customer ***********
+08/01/2023 02:58:19 PM: INFO: *********** Test_015 ***********
+08/01/2023 02:58:35 PM: INFO: ********** Login Succesfull ***********
+08/01/2023 02:58:35 PM: INFO: ********** Starting Editing Customer ***********
+08/01/2023 03:02:05 PM: INFO: *********** Test_015 ***********
+08/01/2023 03:03:34 PM: INFO: ********** Login Succesfull ***********
+08/01/2023 03:03:34 PM: INFO: ********** Starting Editing Customer ***********
+08/01/2023 03:03:48 PM: INFO: *********** Test_015 ***********
+08/01/2023 03:05:18 PM: INFO: ********** Login Succesfull ***********
+08/01/2023 03:05:18 PM: INFO: ********** Starting Editing Customer ***********
+08/01/2023 03:05:30 PM: INFO: *********** Test_015 ***********
+08/01/2023 03:07:21 PM: INFO: ********** Login Succesfull ***********
+08/01/2023 03:07:21 PM: INFO: ********** Starting Editing Customer ***********
+08/01/2023 03:28:27 PM: INFO: *********** Test_015 ***********
+08/01/2023 03:28:37 PM: INFO: ********** Login Succesfull ***********
+08/01/2023 03:28:37 PM: INFO: ********** Starting Editing Customer ***********
+08/01/2023 03:28:50 PM: INFO: ******** Providing Customer Details *********
+08/01/2023 03:29:46 PM: INFO: *********** Test_015 ***********
+08/01/2023 03:29:54 PM: INFO: ********** Login Succesfull ***********
+08/01/2023 03:29:54 PM: INFO: ********** Starting Editing Customer ***********
+08/01/2023 03:30:06 PM: INFO: ******** Providing Customer Details *********
+08/01/2023 03:36:27 PM: INFO: *********** Test_015 ***********
+08/01/2023 03:36:47 PM: INFO: ********** Login Succesfull ***********
+08/01/2023 03:36:47 PM: INFO: ********** Starting Editing Customer ***********
+08/01/2023 03:36:59 PM: INFO: ******** Providing Customer Details *********
+08/01/2023 03:38:52 PM: INFO: *********** Test_015 ***********
+08/01/2023 03:38:59 PM: INFO: ********** Login Succesfull ***********
+08/01/2023 03:38:59 PM: INFO: ********** Starting Editing Customer ***********
+08/01/2023 03:39:11 PM: INFO: ******** Providing Customer Details *********
+08/01/2023 03:39:58 PM: INFO: *********** Test_015 ***********
+08/01/2023 03:40:03 PM: INFO: ********** Login Succesfull ***********
+08/01/2023 03:40:03 PM: INFO: ********** Starting Editing Customer ***********
+08/01/2023 03:40:15 PM: INFO: ******** Providing Customer Details *********
+08/01/2023 03:40:17 PM: INFO: ************* Saving customer info **********
+08/01/2023 03:40:17 PM: INFO: ********* Add customer validation started *****************
+08/01/2023 03:40:17 PM: INFO: ********* Edit Customer Test Passed **********
+08/01/2023 03:40:18 PM: INFO: *********** Ending Editing Customer Test *************
+08/01/2023 03:45:37 PM: INFO: ************* Test_003_AddCustomer **********
+08/01/2023 03:47:04 PM: INFO: *********** Test_015 ***********
+08/01/2023 03:47:15 PM: INFO: ********** Login Succesfull ***********
+08/01/2023 03:47:15 PM: INFO: ********** Starting Editing Customer ***********
+08/01/2023 03:47:27 PM: INFO: ******** Providing Customer Details *********
+08/01/2023 03:47:29 PM: INFO: ************* Saving customer info **********
+08/01/2023 03:47:29 PM: INFO: ********* Add customer validation started *****************
+08/01/2023 03:47:29 PM: INFO: ********* Edit Customer Test Passed **********
+08/01/2023 03:47:30 PM: INFO: *********** Ending Editing Customer Test *************
+08/01/2023 03:47:33 PM: INFO: ************* Test_003_AddCustomer **********
+08/01/2023 03:47:43 PM: INFO: ************* Login succesful **********
+08/01/2023 03:47:43 PM: INFO: ******* Starting Add Customer Test **********
+08/01/2023 03:47:46 PM: INFO: ************* Providing customer info **********
+08/01/2023 03:47:58 PM: INFO: ************* Saving customer info **********
+08/01/2023 03:47:58 PM: INFO: ********* Add customer validation started *****************
+08/01/2023 03:47:58 PM: INFO: ********* Add customer Test Passed *********
+08/01/2023 03:47:59 PM: INFO: ******* Ending Add customer test **********
+08/01/2023 03:48:02 PM: INFO: ************* Export  **********
+08/01/2023 03:48:08 PM: INFO: ************* Login succesful **********
+08/01/2023 03:48:08 PM: INFO: ************* Exporting Customer By Email *****************
+08/01/2023 03:48:10 PM: INFO: ************* Exporting Customer Detail Test Started *****************
+08/01/2023 03:48:11 PM: INFO: ***************** Exporting Customer XML Selected ********************
+08/01/2023 03:48:14 PM: INFO: ************* Export  **********
+08/01/2023 03:48:22 PM: INFO: ************* Login succesful **********
+08/01/2023 03:48:22 PM: INFO: ************* Exporting Customer By Email *****************
+08/01/2023 03:48:23 PM: INFO: ************* Exporting Customer Detail Test Started *****************
+08/01/2023 03:48:24 PM: INFO: ***************** Exporting Customer XML all ********************
+08/01/2023 03:48:27 PM: INFO: ************* Export  **********
+08/01/2023 03:48:45 PM: INFO: ************* Login succesful **********
+08/01/2023 03:48:45 PM: INFO: ************* Exporting Customer By Email *****************
+08/01/2023 03:48:56 PM: INFO: ************* Exporting Customer Detail Test Started *****************
+08/01/2023 03:48:58 PM: INFO: ***************** Exporting Customer Excel Selected ********************
+08/01/2023 03:49:01 PM: INFO: ************* Export  **********
+08/01/2023 03:49:08 PM: INFO: ************* Login succesful **********
+08/01/2023 03:49:08 PM: INFO: ************* Exporting Customer By Email *****************
+08/01/2023 03:49:09 PM: INFO: ************* Exporting Customer Detail Test Started *****************
+08/01/2023 03:49:10 PM: INFO: ***************** Exporting Customer Excel all ********************
+08/01/2023 03:49:13 PM: INFO: *********************** Verifying Login Test **********************************
+08/01/2023 03:49:30 PM: INFO: *********************** Login Test is Passed **********************************
