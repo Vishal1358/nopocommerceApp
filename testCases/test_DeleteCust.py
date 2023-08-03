@@ -44,5 +44,6 @@ class Test_Delete_Customer_016:
         self.delete.clickOn_lnkCustomers_edit()
         time.sleep(2)
         self.delete.clickOn_lnkCustomers_delete()
-        time.sleep(2)
+        time.sleep()
+        self.delete.lnkCustomers_delete_done_xpath()
         assert True
