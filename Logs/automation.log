@@ -471,3 +471,20 @@
 08/01/2023 03:49:10 PM: INFO: ***************** Exporting Customer Excel all ********************
 08/01/2023 03:49:13 PM: INFO: *********************** Verifying Login Test **********************************
 08/01/2023 03:49:30 PM: INFO: *********************** Login Test is Passed **********************************
+08/03/2023 12:47:08 PM: WARNING: Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5)
+08/03/2023 12:47:13 PM: INFO: ************* Export  **********
+08/03/2023 12:47:23 PM: INFO: ************* Login succesful **********
+08/03/2023 12:47:23 PM: INFO: ************* Exporting Customer By Email *****************
+08/03/2023 12:47:26 PM: INFO: ********** Deleting Process **********
+08/03/2023 12:49:25 PM: INFO: ************* Export  **********
+08/03/2023 12:49:32 PM: INFO: ************* Login succesful **********
+08/03/2023 12:49:32 PM: INFO: ************* Exporting Customer By Email *****************
+08/03/2023 12:49:34 PM: INFO: ********** Deleting Process **********
+08/03/2023 12:55:21 PM: INFO: ************* Export  **********
+08/03/2023 12:55:28 PM: INFO: ************* Login succesful **********
+08/03/2023 12:55:28 PM: INFO: ************* Exporting Customer By Email *****************
+08/03/2023 12:55:34 PM: INFO: ********** Deleting Process **********
+08/03/2023 12:56:56 PM: INFO: ************* Export  **********
+08/03/2023 12:57:05 PM: INFO: ************* Login succesful **********
+08/03/2023 12:57:05 PM: INFO: ************* Exporting Customer By Email *****************
+08/03/2023 12:57:11 PM: INFO: ********** Deleting Process **********
