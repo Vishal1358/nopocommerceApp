@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 
 class EditCustomers:
     iconSearch_click_btn_xpath = "//div/div[@class='icon-collapse']"
-    CustomerEdit_Xpath1 = "//tbody/tr[@class='odd']//td/a[@href='Edit/5']"
+    CustomerEdit_Xpath1 = "//td/a[@href='Edit/5']"
     # CustomerEdit_Xpath2 = "//tbody/tr/td/a[@href='Edit/155']"
     CustomerEdit_Email_xpath = "//input[@id='Email']"
     CustomerEdit_Fname_xpath = "//input[@id='FirstName']"

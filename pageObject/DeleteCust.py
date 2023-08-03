@@ -5,7 +5,7 @@ class DeleteCustomer:
     lnkCustomers_menu_xpath = "//a[@href='#']//p[contains(text(),'Customers')]"
     lnkCustomers_menuitem_xpath = "//a[@href='/Admin/Customer/List']"
     icon_collapse_xpath = "//div[@class='icon-collapse']"
-    lnkCustomers_edit_xpath = "//td/a[@href='Edit/5']"
+    lnkCustomers_edit_xpath = "//td/a[@href='Edit/6']"
     # lnkCustomers_edit_xpath = "//td/a[@href='Edit/4']"
     lnkCustomers_delete_xpath = "//div/span[@id='customer-delete']"
     lnkCustomers_delete_done_xpath = "//button[contains(text(),'Delete')]"
