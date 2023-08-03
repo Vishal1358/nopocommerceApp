@@ -4,10 +4,10 @@ from selenium.webdriver.common.by import By
 class ExportCustomer:
     lnkCustomers_menu_xpath = "//a[@href='#']//p[contains(text(),'Customers')]"
     lnkCustomers_menuitem_xpath = "//a[@href='/Admin/Customer/List']"
-    tblMainCheckbox1_xpath = "//tbody/tr/td/input[@value=6]"
+    # tblMainCheckbox1_xpath = "//tbody/tr/td/input[@value=6]"
     # tblMainCheckbox2_xpath = "/tbody/tr/td/input[@value=5]"
     # tblMainCheckbox3_xpath = "/tbody/tr/td/input[@value=4]"
-    # tblMainCheckbox4_xpath = "/tbody/tr/td/input[@value=3]"
+    tblMainCheckbox4_xpath = "//tbody/tr[6]/td[1]/input[1]"
     dropdownButton_Export_xpath = "//div[@class='btn-group']//button[@data-toggle='dropdown']"
     exportToXML_All = "//ul/li/button[@name='exportxml-all']"
     exportToXML_Selected = "//ul/li/button[@id='exportxml-selected']"
