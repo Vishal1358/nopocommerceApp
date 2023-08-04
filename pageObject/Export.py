@@ -24,11 +24,11 @@ class ExportCustomer:
         self.driver.find_element(By.XPATH, self.lnkCustomers_menuitem_xpath).click()
 
     def clickOnMainCheckbox1(self):
-        self.driver.find_element(By.XPATH, self.tblMainCheckbox1_xpath).click()
+        self.driver.find_element(By.XPATH, self.tblMainCheckbox4_xpath).click()
         # self.driver.find_element(By.XPATH, self.tblMainCheckbox2_xpath).click()
 
     def clickOnMainCheckbox2(self):
-        self.driver.find_element(By.XPATH, self.tblMainCheckbox1_xpath).click()
+        self.driver.find_element(By.XPATH, self.tblMainCheckbox4_xpath).click()
         # self.driver.find_element(By.XPATH, self.tblMainCheckbox3_xpath).click()
         # self.driver.find_element(By.XPATH, self.tblMainCheckbox4_xpath).click()
 
