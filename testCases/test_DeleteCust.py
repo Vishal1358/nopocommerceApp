@@ -46,4 +46,7 @@ class Test_Delete_Customer_016:
         self.delete.clickOn_lnkCustomers_delete()
         time.sleep(2)
         self.delete.clickOn_lnkCustomers_done_delete()
+
+        self.driver.close()
+        self.logger.info("******* Ending Add customer test **********")
         assert True

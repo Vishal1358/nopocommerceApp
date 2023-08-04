@@ -10,7 +10,7 @@ from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
 
 
-@pytest.mark.sanity
+@pytest.mark.data2
 class Test_ExportCustomerExcelAll_010:
     baseURL = ReadConfig.getApplicationURL()
     username = ReadConfig.getUseremail()
@@ -39,7 +39,11 @@ class Test_ExportCustomerExcelAll_010:
 
         self.export.clickOnDropdownButton_Export()
         self.export.clickOnExportToExcel_all()
+        time.sleep(8)
 
         self.logger.info("***************** Exporting Customer Excel all ********************")
+
+        # self.driver.close()
+        self.logger.info("******* Ending Export customer test **********")
 
         assert True

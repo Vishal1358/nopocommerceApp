@@ -8,7 +8,7 @@ class ExportCustomer:
     # tblMainCheckbox2_xpath = "/tbody/tr/td/input[@value=5]"
     # tblMainCheckbox3_xpath = "/tbody/tr/td/input[@value=4]"
     tblMainCheckbox4_xpath = "//tbody/tr[6]/td[1]/input[1]"
-    dropdownButton_Export_xpath = "//div[@class='btn-group']//button[@data-toggle='dropdown']"
+    dropdownButton_Export_xpath = "//div/button[@data-toggle='dropdown']"
     exportToXML_All = "//ul/li/button[@name='exportxml-all']"
     exportToXML_Selected = "//ul/li/button[@id='exportxml-selected']"
     exportToExcel_all = "//ul/li/button[@name='exportexcel-all']"
@@ -27,8 +27,8 @@ class ExportCustomer:
         self.driver.find_element(By.XPATH, self.tblMainCheckbox4_xpath).click()
         # self.driver.find_element(By.XPATH, self.tblMainCheckbox2_xpath).click()
 
-    def clickOnMainCheckbox2(self):
-        self.driver.find_element(By.XPATH, self.tblMainCheckbox4_xpath).click()
+    # def clickOnMainCheckbox2(self):
+    #     self.driver.find_element(By.XPATH, self.tblMainCheckbox4_xpath).click()
         # self.driver.find_element(By.XPATH, self.tblMainCheckbox3_xpath).click()
         # self.driver.find_element(By.XPATH, self.tblMainCheckbox4_xpath).click()
 

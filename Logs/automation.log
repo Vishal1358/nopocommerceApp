@@ -578,3 +578,21 @@
 08/03/2023 01:22:30 PM: INFO: Executing: C:\Users\vhirandagi\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
 08/03/2023 01:22:33 PM: INFO: *********************** Verifying Login Test **********************************
 08/03/2023 01:22:41 PM: INFO: *********************** Login Test is Passed **********************************
+08/04/2023 01:54:29 PM: INFO: ************* Export  **********
+08/04/2023 01:54:37 PM: INFO: ************* Login succesful **********
+08/04/2023 01:54:37 PM: INFO: ************* Exporting Customer By Email *****************
+08/04/2023 01:54:39 PM: INFO: ************* Exporting Customer Detail Test Started *****************
+08/04/2023 01:54:40 PM: INFO: ***************** Exporting Customer Excel all ********************
+08/04/2023 01:54:40 PM: INFO: ******* Ending Export customer test **********
+08/04/2023 01:55:02 PM: INFO: ************* Export  **********
+08/04/2023 01:55:12 PM: INFO: ************* Login succesful **********
+08/04/2023 01:55:12 PM: INFO: ************* Exporting Customer By Email *****************
+08/04/2023 01:55:14 PM: INFO: ************* Exporting Customer Detail Test Started *****************
+08/04/2023 01:55:15 PM: INFO: ***************** Exporting Customer Excel all ********************
+08/04/2023 01:55:15 PM: INFO: ******* Ending Export customer test **********
+08/04/2023 01:55:52 PM: INFO: ************* Export  **********
+08/04/2023 01:55:59 PM: INFO: ************* Login succesful **********
+08/04/2023 01:55:59 PM: INFO: ************* Exporting Customer By Email *****************
+08/04/2023 01:56:01 PM: INFO: ************* Exporting Customer Detail Test Started *****************
+08/04/2023 01:56:09 PM: INFO: ***************** Exporting Customer Excel all ********************
+08/04/2023 01:56:09 PM: INFO: ******* Ending Export customer test **********
