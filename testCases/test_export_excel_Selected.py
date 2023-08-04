@@ -40,10 +40,11 @@ class Test_ExportCustomerExcelSelected_011:
         self.export.clickOnMainCheckbox1()
         self.export.clickOnDropdownButton_Export()
         self.export.clickOnExportToExcel_Selected()
+        # time.sleep(5)
 
         self.logger.info("***************** Exporting Customer Excel Selected ********************")
 
-        self.driver.close()
+        # self.driver.close()
         self.logger.info("******* Ending Export customer test **********")
 
         assert True
