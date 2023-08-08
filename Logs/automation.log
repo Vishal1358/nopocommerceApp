@@ -1,0 +1,159 @@
+08/08/2023 10:36:50 AM: INFO: Executing: C:\Users\vhirandagi\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+08/08/2023 10:36:55 AM: INFO: *********** Test_015 ***********
+08/08/2023 10:37:02 AM: INFO: ********** Login Succesfull ***********
+08/08/2023 10:37:02 AM: INFO: ********** Starting Editing Customer ***********
+08/08/2023 10:37:15 AM: INFO: ******** Providing Customer Details *********
+08/08/2023 10:37:16 AM: INFO: ************* Saving customer info **********
+08/08/2023 10:37:16 AM: INFO: ********* Add customer validation started *****************
+08/08/2023 10:37:17 AM: INFO: ********* Edit Customer Test Passed **********
+08/08/2023 10:37:17 AM: INFO: *********** Ending Editing Customer Test *************
+08/08/2023 10:37:17 AM: INFO: Executing: C:\Users\vhirandagi\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+08/08/2023 10:37:19 AM: INFO: ************* Test_003_AddCustomer **********
+08/08/2023 10:37:27 AM: INFO: ************* Login succesful **********
+08/08/2023 10:37:27 AM: INFO: ******* Starting Add Customer Test **********
+08/08/2023 10:37:30 AM: INFO: ************* Providing customer info **********
+08/08/2023 10:37:42 AM: INFO: ************* Saving customer info **********
+08/08/2023 10:37:42 AM: INFO: ********* Add customer validation started *****************
+08/08/2023 10:37:42 AM: INFO: ********* Add customer Test Passed *********
+08/08/2023 10:37:42 AM: INFO: ******* Ending Add customer test **********
+08/08/2023 10:37:42 AM: INFO: Executing: C:\Users\vhirandagi\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+08/08/2023 10:37:44 AM: INFO: *********************** Test_001_Login **********************************
+08/08/2023 10:37:44 AM: INFO: *********************** Verifying Home Page Title **********************************
+08/08/2023 10:37:44 AM: INFO: Executing: C:\Users\vhirandagi\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+08/08/2023 10:37:51 AM: INFO: *********************** Home Page title test is passed **********************************
+08/08/2023 10:37:54 AM: INFO: Executing: C:\Users\vhirandagi\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+08/08/2023 10:37:55 AM: INFO: *********************** Verifying Login Test **********************************
+08/08/2023 10:38:00 AM: INFO: *********************** Login Test is Passed **********************************
+08/08/2023 10:38:00 AM: INFO: Executing: C:\Users\vhirandagi\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+08/08/2023 10:38:02 AM: INFO: ************* SearchCustomerByEmail_004 **********
+08/08/2023 10:38:08 AM: INFO: ************* Login succesful **********
+08/08/2023 10:38:08 AM: INFO: ******* Starting Search Customer By Email **********
+08/08/2023 10:38:09 AM: INFO: ************* searching customer by emailID **********
+08/08/2023 10:38:09 AM: INFO: Executing: C:\Users\vhirandagi\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+08/08/2023 10:38:11 AM: INFO: ************* SearchCustomerByName_005 **********
+08/08/2023 10:38:19 AM: INFO: ************* Login succesful **********
+08/08/2023 10:38:19 AM: INFO: ******* Starting Search Customer By Name **********
+08/08/2023 10:38:23 AM: INFO: ************* searching customer by Name **********
+08/08/2023 11:00:46 AM: INFO: *********** Test_015 ***********
+08/08/2023 11:00:58 AM: INFO: ********** Login Succesfull ***********
+08/08/2023 11:00:58 AM: INFO: ********** Starting Editing Customer ***********
+08/08/2023 11:01:09 AM: INFO: ******** Providing Customer Details *********
+08/08/2023 11:01:11 AM: INFO: ************* Saving customer info **********
+08/08/2023 11:01:11 AM: INFO: ********* Add customer validation started *****************
+08/08/2023 11:01:11 AM: INFO: ********* Edit Customer Test Passed **********
+08/08/2023 11:01:11 AM: INFO: *********** Ending Editing Customer Test *************
+08/08/2023 11:01:14 AM: INFO: ************* Test_003_AddCustomer **********
+08/08/2023 11:01:20 AM: INFO: ************* Login succesful **********
+08/08/2023 11:01:20 AM: INFO: ******* Starting Add Customer Test **********
+08/08/2023 11:01:22 AM: INFO: ************* Providing customer info **********
+08/08/2023 11:01:33 AM: INFO: ************* Saving customer info **********
+08/08/2023 11:01:33 AM: INFO: ********* Add customer validation started *****************
+08/08/2023 11:01:34 AM: INFO: ********* Add customer Test Passed *********
+08/08/2023 11:01:34 AM: INFO: ******* Ending Add customer test **********
+08/08/2023 11:01:36 AM: INFO: *********************** Test_001_Login **********************************
+08/08/2023 11:01:36 AM: INFO: *********************** Verifying Home Page Title **********************************
+08/08/2023 11:01:43 AM: INFO: *********************** Home Page title test is passed **********************************
+08/08/2023 11:01:47 AM: INFO: *********************** Verifying Login Test **********************************
+08/08/2023 11:01:55 AM: INFO: *********************** Login Test is Passed **********************************
+08/08/2023 11:01:58 AM: INFO: ************* SearchCustomerByEmail_004 **********
+08/08/2023 11:02:04 AM: INFO: ************* Login succesful **********
+08/08/2023 11:02:04 AM: INFO: ******* Starting Search Customer By Email **********
+08/08/2023 11:02:05 AM: INFO: ************* searching customer by emailID **********
+08/08/2023 11:02:08 AM: INFO: ************* SearchCustomerByName_005 **********
+08/08/2023 11:02:16 AM: INFO: ************* Login succesful **********
+08/08/2023 11:02:16 AM: INFO: ******* Starting Search Customer By Name **********
+08/08/2023 11:02:19 AM: INFO: ************* searching customer by Name **********
+08/08/2023 11:23:40 AM: INFO: *********** Test_015 ***********
+08/08/2023 11:23:49 AM: INFO: ********** Login Succesfull ***********
+08/08/2023 11:23:49 AM: INFO: ********** Starting Editing Customer ***********
+08/08/2023 11:24:00 AM: INFO: ******** Providing Customer Details *********
+08/08/2023 11:24:02 AM: INFO: ************* Saving customer info **********
+08/08/2023 11:24:02 AM: INFO: ********* Add customer validation started *****************
+08/08/2023 11:24:02 AM: INFO: ********* Edit Customer Test Passed **********
+08/08/2023 11:24:03 AM: INFO: *********** Ending Editing Customer Test *************
+08/08/2023 11:24:05 AM: INFO: ************* Test_003_AddCustomer **********
+08/08/2023 11:24:12 AM: INFO: ************* Login succesful **********
+08/08/2023 11:24:12 AM: INFO: ******* Starting Add Customer Test **********
+08/08/2023 11:24:14 AM: INFO: ************* Providing customer info **********
+08/08/2023 11:24:25 AM: INFO: ************* Saving customer info **********
+08/08/2023 11:24:25 AM: INFO: ********* Add customer validation started *****************
+08/08/2023 11:24:26 AM: INFO: ********* Add customer Test Passed *********
+08/08/2023 11:24:26 AM: INFO: ******* Ending Add customer test **********
+08/08/2023 11:24:28 AM: INFO: *********************** Test_001_Login **********************************
+08/08/2023 11:24:28 AM: INFO: *********************** Verifying Home Page Title **********************************
+08/08/2023 11:24:36 AM: INFO: *********************** Home Page title test is passed **********************************
+08/08/2023 11:24:40 AM: INFO: *********************** Verifying Login Test **********************************
+08/08/2023 11:24:48 AM: INFO: *********************** Login Test is Passed **********************************
+08/08/2023 11:24:50 AM: INFO: ************* SearchCustomerByEmail_004 **********
+08/08/2023 11:24:59 AM: INFO: ************* Login succesful **********
+08/08/2023 11:24:59 AM: INFO: ******* Starting Search Customer By Email **********
+08/08/2023 11:25:01 AM: INFO: ************* searching customer by emailID **********
+08/08/2023 11:25:03 AM: INFO: ************* SearchCustomerByName_005 **********
+08/08/2023 11:25:11 AM: INFO: ************* Login succesful **********
+08/08/2023 11:25:11 AM: INFO: ******* Starting Search Customer By Name **********
+08/08/2023 11:25:15 AM: INFO: ************* searching customer by Name **********
+08/08/2023 11:34:30 AM: WARNING: Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5)
+08/08/2023 11:34:31 AM: INFO: ************* SearchCustomerByEmail_004 **********
+08/08/2023 11:34:39 AM: INFO: ************* Login succesful **********
+08/08/2023 11:34:39 AM: INFO: ******* Starting Search Customer By Email **********
+08/08/2023 11:34:41 AM: INFO: ************* searching customer by emailID **********
+08/08/2023 11:34:46 AM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/08/2023 11:35:09 AM: INFO: ************* SearchCustomerByName_005 **********
+08/08/2023 11:35:17 AM: INFO: ************* Login succesful **********
+08/08/2023 11:35:17 AM: INFO: ******* Starting Search Customer By Name **********
+08/08/2023 11:35:21 AM: INFO: ************* searching customer by Name **********
+08/08/2023 11:35:26 AM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/08/2023 11:35:41 AM: INFO: *********** Test_015 ***********
+08/08/2023 11:35:49 AM: INFO: ********** Login Succesfull ***********
+08/08/2023 11:35:49 AM: INFO: ********** Starting Editing Customer ***********
+08/08/2023 11:36:01 AM: INFO: ******** Providing Customer Details *********
+08/08/2023 11:36:03 AM: INFO: ************* Saving customer info **********
+08/08/2023 11:36:03 AM: INFO: ********* Add customer validation started *****************
+08/08/2023 11:36:03 AM: INFO: ********* Edit Customer Test Passed **********
+08/08/2023 11:36:03 AM: INFO: *********** Ending Editing Customer Test *************
+08/08/2023 11:36:06 AM: INFO: ************* Test_003_AddCustomer **********
+08/08/2023 11:36:14 AM: INFO: ************* Login succesful **********
+08/08/2023 11:36:14 AM: INFO: ******* Starting Add Customer Test **********
+08/08/2023 11:36:16 AM: INFO: ************* Providing customer info **********
+08/08/2023 11:36:28 AM: INFO: ************* Saving customer info **********
+08/08/2023 11:36:28 AM: INFO: ********* Add customer validation started *****************
+08/08/2023 11:36:28 AM: INFO: ********* Add customer Test Passed *********
+08/08/2023 11:36:28 AM: INFO: ******* Ending Add customer test **********
+08/08/2023 11:36:31 AM: INFO: *********************** Test_001_Login **********************************
+08/08/2023 11:36:31 AM: INFO: *********************** Verifying Home Page Title **********************************
+08/08/2023 11:36:37 AM: INFO: *********************** Home Page title test is passed **********************************
+08/08/2023 11:36:42 AM: INFO: *********************** Verifying Login Test **********************************
+08/08/2023 11:36:48 AM: INFO: *********************** Login Test is Passed **********************************
+08/08/2023 11:36:51 AM: INFO: ************* SearchCustomerByEmail_004 **********
+08/08/2023 11:36:58 AM: INFO: ************* Login succesful **********
+08/08/2023 11:36:58 AM: INFO: ******* Starting Search Customer By Email **********
+08/08/2023 11:36:59 AM: INFO: ************* searching customer by emailID **********
+08/08/2023 11:37:05 AM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/08/2023 11:37:07 AM: INFO: ************* SearchCustomerByName_005 **********
+08/08/2023 11:37:14 AM: INFO: ************* Login succesful **********
+08/08/2023 11:37:14 AM: INFO: ******* Starting Search Customer By Name **********
+08/08/2023 11:37:17 AM: INFO: ************* searching customer by Name **********
+08/08/2023 11:37:23 AM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+08/08/2023 11:38:02 AM: INFO: *********** Test_015 ***********
+08/08/2023 11:38:11 AM: INFO: ********** Login Succesfull ***********
+08/08/2023 11:38:11 AM: INFO: ********** Starting Editing Customer ***********
+08/08/2023 11:38:23 AM: INFO: ******** Providing Customer Details *********
+08/08/2023 11:38:25 AM: INFO: ************* Saving customer info **********
+08/08/2023 11:38:25 AM: INFO: ********* Add customer validation started *****************
+08/08/2023 11:38:25 AM: INFO: ********* Edit Customer Test Passed **********
+08/08/2023 11:38:25 AM: INFO: *********** Ending Editing Customer Test *************
+08/08/2023 11:38:27 AM: INFO: ************* Export  **********
+08/08/2023 11:38:37 AM: INFO: ************* Login succesful **********
+08/08/2023 11:38:37 AM: INFO: ************* Exporting Customer By Email *****************
+08/08/2023 11:38:42 AM: INFO: ********** Deleting Process **********
+08/08/2023 11:38:52 AM: INFO: ******* Ending Add customer test **********
+08/08/2023 11:38:54 AM: INFO: ************* Test_003_AddCustomer **********
+08/08/2023 11:39:07 AM: INFO: ************* Login succesful **********
+08/08/2023 11:39:07 AM: INFO: ******* Starting Add Customer Test **********
+08/08/2023 11:39:30 AM: INFO: ************* Providing customer info **********
+08/08/2023 11:39:41 AM: INFO: ************* Saving customer info **********
+08/08/2023 11:39:41 AM: INFO: ********* Add customer validation started *****************
+08/08/2023 11:39:41 AM: INFO: ********* Add customer Test Passed *********
+08/08/2023 11:39:42 AM: INFO: ******* Ending Add customer test **********
+08/08/2023 11:39:44 AM: INFO: *********************** Verifying Login Test **********************************
+08/08/2023 11:40:43 AM: INFO: *********************** Login Test is Passed **********************************
